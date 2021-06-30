@@ -1,2 +1,2 @@
-# College_management_app
+# College Management App
 A MERN stack app on college management
